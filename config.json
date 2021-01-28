@@ -1,0 +1,11 @@
+{
+    "username": "user-you-want-updates-from",
+    "prefix": "discord-prefix",
+    "token": "discord-client-token",
+    "clientID": "discord-clientID",
+    "clientSecret":"discord-client-secret",
+    "redditUsername": "your-reddit-username",
+    "redditPassword": "your-reddit-password",
+    "redditBotName":"your-reddit-bot-name",
+    "discordChannelID":"you-discord-channel-ID"
+}
